@@ -1,4 +1,4 @@
-# Server Stats
+# Server Status
 
 A simple Bash script that analyzes basic Linux server performance statistics.
 
